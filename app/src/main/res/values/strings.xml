@@ -26,5 +26,7 @@
     <string name="btnUpdate">Update</string>
     <string name="btnDelete">Delete</string>
     <string name="btnBack">View</string>
+    <string name="train2">Rajadhani</string>
+    <string name="train3">Express B</string>
 
 </resources>

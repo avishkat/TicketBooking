@@ -8,7 +8,7 @@
     tools:context=".AdminDashboardActivity">
 
     <Button
-        android:id="@+id/btnAdd"
+        android:id="@+id/btnAdd1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:background="@drawable/profile_back_button"
@@ -16,14 +16,15 @@
         android:text="@string/btnAdd"
         android:textAllCaps="false"
         android:textSize="20sp"
-        app:layout_constraintBottom_toTopOf="@+id/btnView"
+        app:layout_constraintBottom_toTopOf="@+id/btnView1"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintHorizontal_bias="0.536"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.044" />
 
     <Button
-        android:id="@+id/btnView"
+        android:id="@+id/btnView1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
@@ -35,9 +36,9 @@
         android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintHorizontal_bias="0.559"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/btnAdd" />
+        app:layout_constraintTop_toBottomOf="@+id/btnAdd1" />
 
 
 </android.support.constraint.ConstraintLayout>

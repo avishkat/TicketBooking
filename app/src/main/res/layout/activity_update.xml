@@ -186,7 +186,7 @@
         app:layout_constraintTop_toBottomOf="@+id/etDestination" />
 
     <Button
-        android:id="@+id/btnView"
+        android:id="@+id/btnView3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="12dp"
@@ -211,7 +211,8 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.51"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/etPrice" />
+        app:layout_constraintTop_toBottomOf="@+id/etPrice"
+        android:onClick="displayToastUpdate"/>
 
     <Button
         android:id="@+id/btnUpdate"
@@ -225,7 +226,8 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.13"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/etPrice" />
+        app:layout_constraintTop_toBottomOf="@+id/etPrice"
+        android:onClick="displayToastDelete"/>
 
     <TextView
         android:id="@+id/textView2"
