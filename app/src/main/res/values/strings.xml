@@ -6,8 +6,7 @@
     <string name="title_notifications">Notifications</string>
     <string name="title_activity_profile">Profile</string>
     <string name="action_settings">Settings</string>
-<<<<<<< HEAD
-=======
+
     <string name="btnAdd">Add new train</string>
     <string name="btnView">View train details</string>
     <string name="tvAdd">Name</string>
@@ -27,5 +26,5 @@
     <string name="btnUpdate">Update</string>
     <string name="btnDelete">Delete</string>
     <string name="btnBack">View</string>
->>>>>>> Admin Dashboard
+
 </resources>
