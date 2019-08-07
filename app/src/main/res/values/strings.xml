@@ -6,4 +6,26 @@
     <string name="title_notifications">Notifications</string>
     <string name="title_activity_profile">Profile</string>
     <string name="action_settings">Settings</string>
+<<<<<<< HEAD
+=======
+    <string name="btnAdd">Add new train</string>
+    <string name="btnView">View train details</string>
+    <string name="tvAdd">Name</string>
+    <string name="tvSource">Source</string>
+    <string name="tvDest">Destination</string>
+    <string name="tvDate">Date</string>
+    <string name="tvTime">Time</string>
+    <string name="tvPrice">Price</string>
+    <string name="etName">Northern Express</string>
+    <string name="etSource">Kandy</string>
+    <string name="etDest">Jaffna</string>
+    <string name="etDate">Saturday</string>
+    <string name="etTime">10.25 AM</string>
+    <string name="etPrice">Rs100.00</string>
+    <string name="btnSubmit">Add</string>
+    <string name="tvManage">Manage train details</string>
+    <string name="btnUpdate">Update</string>
+    <string name="btnDelete">Delete</string>
+    <string name="btnBack">View</string>
+>>>>>>> Admin Dashboard
 </resources>
